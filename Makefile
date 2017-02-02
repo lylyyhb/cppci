@@ -1,2 +1,2 @@
 all:
-	clang++ main.cpp -o main
+	clang++ main.cpp -o main.out
